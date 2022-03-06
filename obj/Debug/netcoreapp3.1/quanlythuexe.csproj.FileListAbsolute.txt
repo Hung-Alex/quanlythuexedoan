@@ -1,0 +1,14 @@
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\bin\Debug\netcoreapp3.1\quanlythuexe.exe
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\bin\Debug\netcoreapp3.1\quanlythuexe.deps.json
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\bin\Debug\netcoreapp3.1\quanlythuexe.runtimeconfig.json
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\bin\Debug\netcoreapp3.1\quanlythuexe.runtimeconfig.dev.json
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\bin\Debug\netcoreapp3.1\quanlythuexe.dll
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\bin\Debug\netcoreapp3.1\quanlythuexe.pdb
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\obj\Debug\netcoreapp3.1\quanlythuexe.csproj.AssemblyReference.cache
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\obj\Debug\netcoreapp3.1\quanlythuexe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\obj\Debug\netcoreapp3.1\quanlythuexe.AssemblyInfoInputs.cache
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\obj\Debug\netcoreapp3.1\quanlythuexe.AssemblyInfo.cs
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\obj\Debug\netcoreapp3.1\quanlythuexe.csproj.CoreCompileInputs.cache
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\obj\Debug\netcoreapp3.1\quanlythuexe.dll
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\obj\Debug\netcoreapp3.1\quanlythuexe.pdb
+C:\Users\phamn\OneDrive\Desktop\Csharp\quanlythuexe\obj\Debug\netcoreapp3.1\quanlythuexe.genruntimeconfig.cache
